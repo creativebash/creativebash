@@ -2,7 +2,7 @@
 - 👀 I’m a software engineer and data professional
 - 🌱 I program with python and javascript
 - 🚀 I build scalable web applications
-- 💞️ I love using data to build ML models, and generate insights
+- 💞️ I love engineering data to build ML models
 - 💞️ I write technical and expository articles - [Link](https://medium.com/@anakobe)
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/anakobe/)
 
