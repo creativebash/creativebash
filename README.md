@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @creativebash
-- 👀 I’m interested in machine learning and web developement
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on machine learning modelling and deployment
-- 📫 How to reach me : [linkedin.com/in/anakobe](https://www.linkedin.com/in/anakobe/)
+- 👋 Hi, I’m @creativebash (Bashir Anakobe)
+- 👀 I’m a software engineer (web) and data professional
+- 🌱 I develop with python and javascript programming languages
+- 🚀 I build scalable web applications
+- 💞️ I love using data to build ML models, and generate insights
+- 💞️ I technical and expository articles - [Link](https://medium.com/@anakobe)
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/anakobe/)
 
 <!---
 creativebash/creativebash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
