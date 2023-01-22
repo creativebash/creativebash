@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @creativebash (Bashir Anakobe)
+- 👋 Hi, I’m [@creativebash](https://github.com/creativebash) (Bashir Anakobe)
 - 👀 I’m a software engineer (web) and data professional
 - 🌱 I develop with python and javascript programming languages
 - 🚀 I build scalable web applications
