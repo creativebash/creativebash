@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@creativebash](https://github.com/creativebash) (Bashir Anakobe)
 - 👀 I’m a software developer and data professional
-- 🚀 I build scalable web applications
+- 🚀 I build secure and scalable web applications
 - 💞️ I love engineering data to build ML models
 - 💞️ I write technical and expository articles
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/anakobe/)
