@@ -1,10 +1,25 @@
-- 👋 Hi, I’m [@creativebash](https://github.com/creativebash) (Bashir Anakobe)
-- 👀 I’m a software developer and data professional
-- 🚀 I build secure and scalable web applications
-- 💞️ I love engineering data to build ML models
-- 💞️ I write technical and expository articles
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/anakobe/) or [Twitter/X](https://x.com/bashiranakobe)
+# 👋 Hey, I'm Bashir Anakobe
+
+**Software Developer & Data Professional** building secure, scalable web applications and ML solutions.
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript • Python • PHP • Go • Rust *(learning)*
+
+**Frontend:** React • HTML • CSS
+
+**Backend:** FastAPI • Starlette • Axum • Yii
+
+## 💡 What I Do
+
+- Build full-stack web applications and APIs
+- Engineer data pipelines and ML models
+- Write technical articles and share knowledge
+
+## 📬 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/anakobe/) • [Twitter/X](https://x.com/bashiranakobe)
+
 <!---
 creativebash/creativebash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
